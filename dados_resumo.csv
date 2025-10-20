@@ -1,0 +1,11 @@
+idade,genero,renda,score_comport,score_bem_estar
+40 a 50 anos,Masculino,Mais de 10 salários mínimos,4.0,
+40 a 50 anos,Masculino,De 2 a 5 salários mínimos,4.0,
+29 a 39 anos,Masculino,De 2 a 5 salários mínimos,4.0,
+40 a 50 anos,Masculino,De 5 a 10 salários mínimos,,2.0
+29 a 39 anos,Masculino,Até 2 salários mínimos,,2.4
+18 a 28 anos,Masculino,Até 2 salários mínimos,,2.4
+29 a 39 anos,Masculino,De 2 a 5 salários mínimos,,1.7
+40 a 50 anos,Masculino,Até 2 salários mínimos,,4.0
+40 a 50 anos,Masculino,Mais de 10 salários mínimos,,4.0
+40 a 50 anos,Masculino,Mais de 10 salários mínimos,,4.0
