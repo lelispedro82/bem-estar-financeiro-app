@@ -243,12 +243,3 @@ if st.button("Calcular meu resultado"):
         st.success("✅ Seus dados foram salvos anonimamente para futuras comparações.")
     except Exception as e:
         st.error(f"❌ Erro ao salvar dados: {e}")
-
-# -m streamlit run app.py
-
-#git init
-#git add .
-#git commit -m "Primeiro commit - app de bem estar financeiro"
-#git branch -M main
-#git remote add origin https://github.com/SEU_USUARIO/bem-estar-financeiro-app.git
-# git push -u origin main
